@@ -15,6 +15,11 @@ public class CharacterBase : MonoBehaviour
     public float velocity = 5f;
 
     /// <summary>
+    /// 移動可能フラグ
+    /// </summary>
+    public int enable_move = 0;
+
+    /// <summary>
     /// 移動方向
     /// </summary>
     private Vector3 _move_direction;
@@ -88,6 +93,12 @@ public class CharacterBase : MonoBehaviour
     /// </summary>
     public void Move(Vector2 direction_2d)
     {
+        // 移動不可フラグ
+        if(enable_move > 0)
+        {
+            return;
+        }
+
         // 移動制御
         _move_direction = new Vector3(direction_2d.x, 0, direction_2d.y);
         rb.velocity = _move_direction * velocity;

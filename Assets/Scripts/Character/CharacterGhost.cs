@@ -7,7 +7,7 @@ public class CharacterGhost : CharacterBase
     /// <summary>
     /// Œ»İ‚Ìó‘Ô
     /// </summary>
-    GameDifinition.eGhostStatus _current_status;
+    public GameDifinition.eGhostStatus _current_status;
 
     /// <summary>
     /// ’Êí“§–¾“x

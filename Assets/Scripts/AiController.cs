@@ -56,6 +56,7 @@ public class AiController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        _agent.speed = _character.enable_move > 0 ? 0 : _character.velocity ;
         _GoalUpdate();
         _ColorUpdate();
     }

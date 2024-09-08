@@ -29,7 +29,7 @@ public static class GameDifinition
     public enum eGhostStatus
     {
         ShootHit,
-        RopeHit,
+        TrapHit,
         PhotographHit,
         Failed,
     }
