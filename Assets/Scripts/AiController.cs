@@ -36,7 +36,7 @@ public class AiController : MonoBehaviour
     /// 操作対象キャラクター
     /// </summary>
     [SerializeField]
-    private CharacterBase _character;
+    protected CharacterBase _character;
 
     public void Start()
     {
@@ -59,7 +59,10 @@ public class AiController : MonoBehaviour
         _agent.speed = _character.enable_move > 0 ? 0 : _character.velocity ;
         _GoalUpdate();
         _ColorUpdate();
+        _Update();
     }
+
+    protected virtual void _Update() { }
 
     /// <summary>
     /// 色チェンジチェック

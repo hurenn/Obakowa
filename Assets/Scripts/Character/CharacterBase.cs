@@ -50,7 +50,7 @@ public class CharacterBase : MonoBehaviour
             _current_color = value;
 
             // 色切り替え後のコールバック
-            color_change_action.Invoke(currentColor);
+            color_change_action?.Invoke(currentColor);
         }
     }
 
@@ -139,7 +139,7 @@ public class CharacterBase : MonoBehaviour
         currentColor = after_color;
 
         // 色切り替え後のコールバック
-        color_change_action.Invoke(currentColor);
+        color_change_action?.Invoke(currentColor);
     }
 
     /// <summary>

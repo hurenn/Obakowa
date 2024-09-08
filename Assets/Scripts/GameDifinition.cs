@@ -4,8 +4,8 @@ using UnityEngine;
 
 public static class GameDifinition
 {
-    public static string SHOOT_PATH = "Assets/Weapon/Shoot";
-    public static string PHOTOGRAPH_PATH = "Assets/Weapon/Photograph";
+    public static string SHOOT_PATH = "Prefab/Weapon/Shoot";
+    public static string PHOTOGRAPH_PATH = "Prefab/Weapon/Photograph";
 
     public enum eColor
     {
