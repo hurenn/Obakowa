@@ -10,6 +10,11 @@ public class CharacterGhost : CharacterBase
     GameDifinition.eGhostStatus _current_status;
 
     /// <summary>
+    /// 通常透明度
+    /// </summary>
+    private float _def_alpha = 0;
+
+    /// <summary>
     /// 白から復帰するまでの時間
     /// </summary>
     [SerializeField]
@@ -20,6 +25,9 @@ public class CharacterGhost : CharacterBase
     /// </summary>
     float _current_recover_timer = 0f;
 
+    /// <summary>
+    /// レンダラ―
+    /// </summary>
     private Renderer rend;
 
     public override void Setup()
@@ -27,6 +35,8 @@ public class CharacterGhost : CharacterBase
         rend = GetComponent<Renderer>();
         _current_recover_timer = 0;
         _current_status = GameDifinition.eGhostStatus.ShootHit;
+        _def_alpha = rend.material.color.a;
+        StartCoroutine("PlayAlphaAnimation", GameDifinition.eColor.Cyan);
 
         color_change_action += (set_color) =>
         {
@@ -41,6 +51,26 @@ public class CharacterGhost : CharacterBase
         };
 
         base.Setup();
+    }
+
+    /// <summary>
+    /// 透明化アニメ再生
+    /// </summary>
+    /// <returns></returns>
+    private IEnumerator PlayAlphaAnimation(GameDifinition.eColor set_color)
+    {
+        var rgb = GameDifinition.GetRGBColor(set_color);
+        rgb.a = _def_alpha;
+        rend.material.color = rgb;
+
+        while(rend.material.color.a > 0)
+        {
+            rgb.a = Mathf.Clamp(rgb.a - 0.002f, 0, 1.0f);
+            rend.material.color = rgb;
+            yield return null;
+        }
+
+        yield break;
     }
 
     private void OnTriggerEnter(Collider other)
@@ -78,7 +108,10 @@ public class CharacterGhost : CharacterBase
 
         enableColorChange = true;
         rend.enabled = true;
-        SetColor( (GameDifinition.eColor)Random.Range(1, 4));
+        var color = (GameDifinition.eColor)Random.Range(1, 4);
+        SetColor( color );
+
+        StartCoroutine("PlayAlphaAnimation", color);
     }
 
     private void _HitShoot(GameDifinition.eColor hit_color)
@@ -93,6 +126,12 @@ public class CharacterGhost : CharacterBase
         {
             _current_status = GameDifinition.eGhostStatus.PhotographHit;
             currentColor = GameDifinition.eColor.White;
+
+            // 透明度1の白色に切り替え
+            var rgb = GameDifinition.GetRGBColor(GameDifinition.eColor.White);
+            rgb.a = 1.0f;
+            rend.material.color = rgb;
+
             _current_recover_timer = _recover_time;
             enableColorChange = false;
         }
