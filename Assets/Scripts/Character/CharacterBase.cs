@@ -20,6 +20,16 @@ public class CharacterBase : MonoBehaviour
     public int enable_move = 0;
 
     /// <summary>
+    /// ショット可能フラグ
+    /// </summary>
+    public int enable_shoot = 0;
+
+    /// <summary>
+    /// アクション可能フラグ
+    /// </summary>
+    public int enable_action = 0;
+
+    /// <summary>
     /// 移動方向
     /// </summary>
     private Vector3 _move_direction;
@@ -145,12 +155,12 @@ public class CharacterBase : MonoBehaviour
     /// <summary>
     /// 光線銃発射
     /// </summary>
-    public virtual void Shoot(){}
+    public virtual void Shoot(){ if (enable_shoot > 0) return; }
 
     /// <summary>
     /// 特殊アクション実行
     /// </summary>
-    public virtual void ActionEx() {}
+    public virtual void ActionEx() { if (enable_action > 0) return; }
 
     /// <summary>
     /// やられた

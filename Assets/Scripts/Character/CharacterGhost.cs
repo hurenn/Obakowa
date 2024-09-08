@@ -30,8 +30,15 @@ public class CharacterGhost : CharacterBase
     /// </summary>
     private Renderer rend;
 
+    /// <summary>
+    /// ã∫Ç©ÇµçUåÇ
+    /// </summary>
+    [SerializeField]
+    private Scare _scare;
+
     public override void Setup()
     {
+        _scare.gameObject.SetActive(false);
         rend = GetComponent<Renderer>();
         _current_recover_timer = 0;
         _current_status = GameDifinition.eGhostStatus.ShootHit;
@@ -43,6 +50,15 @@ public class CharacterGhost : CharacterBase
             if (!_enable_color_change)
             {
                 return;
+            }
+
+            if(set_color == GameDifinition.eColor.Yellow)
+            {
+                _scare.gameObject.SetActive(true);
+            }
+            else
+            {
+                _scare.gameObject.SetActive(false);
             }
 
             var rgb = GameDifinition.GetRGBColor(set_color);
@@ -57,7 +73,7 @@ public class CharacterGhost : CharacterBase
     /// ìßñæâªÉAÉjÉÅçƒê∂
     /// </summary>
     /// <returns></returns>
-    private IEnumerator PlayAlphaAnimation(GameDifinition.eColor set_color)
+    public IEnumerator PlayAlphaAnimation(GameDifinition.eColor set_color)
     {
         var rgb = GameDifinition.GetRGBColor(set_color);
         rgb.a = _def_alpha;

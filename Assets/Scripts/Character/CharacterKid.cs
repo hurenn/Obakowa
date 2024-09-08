@@ -33,7 +33,7 @@ public class CharacterKid : CharacterBase
     {
         base.Shoot();
 
-        if (_shoot_obj == null)
+        if (_shoot_obj == null || enable_shoot > 0)
         {
             return;
         }
@@ -45,7 +45,21 @@ public class CharacterKid : CharacterBase
     public override void ActionEx()
     {
         base.ActionEx();
+        if(enable_action > 0)
+        {
+            return;
+        }
 
         var obj = Instantiate(_photograph_obj, transform.position + transform.forward * _photograph_distance, transform.rotation);
+    }
+
+    public override void Failed()
+    {
+        enable_shoot++;
+        enable_move++;
+        enable_action++;
+
+        var rend = GetComponent<Renderer>();
+        rend.material.color = Color.gray;
     }
 }
