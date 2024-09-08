@@ -81,7 +81,7 @@ public class CharacterGhost : CharacterBase
 
         while(rend.material.color.a > 0)
         {
-            rgb.a = Mathf.Clamp(rgb.a - 0.002f, 0, 1.0f);
+            rgb.a = Mathf.Clamp(rgb.a - 0.01f, 0, 1.0f);
             rend.material.color = rgb;
             yield return null;
         }
