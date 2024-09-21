@@ -1,0 +1,4809 @@
+fileFormatVersion: 2
+guid: 9b3b556624532384fb5027cf314752fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gunvolt all sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3003
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767c89fa1ceb934dae1286d70ceb714
+      internalID: 426298572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3003
+        width: 58
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9003ec2dd841b48b0de4745c07cddc
+      internalID: -1153881667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3003
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1688e922a8b6f44ada8c0676bcd91f
+      internalID: 943377667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3003
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bae45461da234b85f0fb89e6f37ef
+      internalID: 395859333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3003
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f421baec851ed4b87c409b81727676
+      internalID: 1123188447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3003
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920cd4c884c1b3a4a93d6b8366acc2dc
+      internalID: 1454417441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3003
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73430f0232a0f204e90d0cf6395f602d
+      internalID: 2037851725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2943
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f9a4c47e9eec43acbbfabd84aa633
+      internalID: -1732981104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2943
+        width: 50
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3f8189d9321a49a5d311fa3b26816
+      internalID: -305363208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2943
+        width: 54
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68334316536e80e4c82ac098ce83ade3
+      internalID: -104617861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2946
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f45f49c8a78943adb08ca1da6e2a0
+      internalID: -402013393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2945
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ca4c9ced121046b29e762479d6744
+      internalID: 1809691251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2945
+        width: 48
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f52a5041a3d58f4ea6efe463d419244
+      internalID: 1425002116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2945
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a667e113aa70ca2409170990ced1126b
+      internalID: 1773426356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2945
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbc1467c228104ea41901a77255e3f
+      internalID: -1200632858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2945
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cb1137f6e231498625b9b0ec76fe0
+      internalID: -1321687511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2943
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e9ef53f0e02ef4185e68a8770f53db
+      internalID: -757461977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2943
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea39e96c4ec2ab4c8e9b7ff63d2699e
+      internalID: 640163821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2891
+        width: 109
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c5005f46655d4680b42656f9d6df4
+      internalID: -1262739715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2891
+        width: 52
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a174d38dce84479e24a179d440cdd
+      internalID: -831913553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2891
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87b115216efef488435c37a184e1fa
+      internalID: 261544837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2891
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de87933e7c2f3647b1af91c34e086b2
+      internalID: -1059475774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2891
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de21301304ab0b4bb6a11898ab5ef69
+      internalID: -1493636600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2891
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ab4bb3134c854ab5eb0a64b3c232a
+      internalID: -796292071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2891
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadeac4762e592b499640a24f6d3ae40
+      internalID: -922311721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2891
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f166729208145d43aef209a578c6106
+      internalID: -682567279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2891
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc373a58f84ec54da8e612a7edcd0fd
+      internalID: 176006593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2834
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ebe480417e384e9f58bf4096b0bfa
+      internalID: 726771998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2834
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7aa03756ec07459c5938db7201035
+      internalID: 1398907506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2834
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598f5f4b949da543b2c5db60dc086fb
+      internalID: 1260770888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2773
+        width: 35
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2f4ca60c399942b727367e69b1f2a
+      internalID: -261701156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2770
+        width: 37
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104c86cc39ef10409ef4a1f7ce90327
+      internalID: 1656264592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2707
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb903ffa2e898b4fb8dfe9e0e073656
+      internalID: -715299372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2707
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7919ac6670618842a5e290b5b4628bf
+      internalID: -401405262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2707
+        width: 41
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae470db6fe31274695bf188a6d25ca4
+      internalID: -233321953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2707
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b54276c3f5354992af4b1ec11510d
+      internalID: 1360466607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2644
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb25e6b9130c7c448be660991d6f7c8
+      internalID: 1241880343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2577
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b5dfb4e95815488742b6fb3b04d05
+      internalID: -1992828551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2577
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814c4829f1edfc45be0d3d20eb98553
+      internalID: -1712533794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_39
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2577
+        width: 50
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d62c156d017e414ab56ad90e8d002af
+      internalID: -422413332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_40
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2577
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465aa48992bcf9e4a96c48c6327ee0f7
+      internalID: 1954627716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2505
+        width: 52
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213625ac983b57e48b365b0da1e1f105
+      internalID: -915444567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2508
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca050bc57be2c7e44980664cebc193f6
+      internalID: 63706593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2508
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce6941a78f2de4e9b64bc8dbbcf279
+      internalID: -608413966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2508
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa8eee143948647a944e1d2a23755e
+      internalID: -1232668709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_45
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2508
+        width: 45
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cee68001492df469526663901b1444
+      internalID: -1329579442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2450
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c3c23635c9c54c9c832322057e32b
+      internalID: -1835391050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2393
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff88e2d44e78174aba549b0224ffc01
+      internalID: 1248258379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2338
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce038a55641ac00408ed1bb6109e8a89
+      internalID: -1562482613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2281
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fda264f560c746a58100a61e9d025
+      internalID: 172130098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2221
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f145614d1767534d96509fd18507138
+      internalID: 559466157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2221
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbbecd72705450429c231bc5961c42c
+      internalID: 959010237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2221
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc35dd09cf6e424b8beccb959076496
+      internalID: 50330969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2224
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3839e60b56fb4bbc9c16ff255e7b9
+      internalID: -1677299493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2223
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b582e91bbf10943a74df6715effd6b
+      internalID: -2050950232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2223
+        width: 63
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b746f171f7ea06468fd63ee9b24c61b
+      internalID: 1393795121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2223
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef9da3c8ebbf464781342f9a57f1a4e
+      internalID: 529256054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2223
+        width: 59
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b44916d0a12c46b8a165b01cf194c
+      internalID: 1543514059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_58
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2223
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677bc361d29b80d4da9d67845085b77a
+      internalID: -1408064297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_59
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2221
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f4e717b4a5114db55bb2f00f417b2
+      internalID: -1007060436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_60
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2221
+        width: 59
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4fe092c36f05547bd5649a234947b6
+      internalID: -1581466063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2163
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9c9c51eb065e4d8c0086bec1c6656
+      internalID: -643119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2163
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a867dfa657cb0f4fb9bf96b35790a43
+      internalID: 1352137399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2163
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e623ce6da495438708c652f9da2b6
+      internalID: -676383601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2166
+        width: 62
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee54f34870019947b2593c84376f234
+      internalID: 66917558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2163
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e636ebd058e7d1940830986253a992d9
+      internalID: 752475198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2163
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64962e8aafb324f40a850174769f70bc
+      internalID: -350061805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2163
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba7a11c8f0bf049bf804e62f9c19be
+      internalID: -337201521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2163
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff24aae369202d459c871a3cf20bf59
+      internalID: 1125228613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_69
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2164
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c12a29f7ed1cd449d21c8227eab1be
+      internalID: -1866813316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_70
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2163
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee48faaa4a3814297d9b3001a64845
+      internalID: 1049835851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_71
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2163
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc850e3a24cfd84ab050a70b1b4d628
+      internalID: 212393473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2103
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206076a06bd0fe4380a113c7845e39b
+      internalID: 420192612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2103
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0442287a43d264dbe582647190a1df
+      internalID: -122548120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2103
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e940d0698dc89741ad844a15cbde079
+      internalID: 1850578491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2106
+        width: 63
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8962d3ee37e95794982cce750ce9bc4d
+      internalID: -1110374066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2104
+        width: 65
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c7df48c6c79548a345573ea27bdc0
+      internalID: -903426153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_77
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2104
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e1e0034643694da8cb498894e942c
+      internalID: 578538367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2104
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd41ceb135cd0a44958b62e44cab9d9
+      internalID: 347363875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2104
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0006aa02ca4c9347a45431810309a9f
+      internalID: -928454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2106
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852afa99057b41488d4fda28d8ac08c
+      internalID: 790535599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_81
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2103
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ddce68f97a9048b679978a7ab8c92
+      internalID: -1484219063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_82
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2103
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd40476356e72c40a72837c2c41bb85
+      internalID: -1131858611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2051
+        width: 64
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07890076a4f2018418c99adf8f4222c4
+      internalID: 2106061039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2051
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0d1bc8eb24a344f9b759c0d51811ae
+      internalID: 1706857985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2051
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ea1b4eb065c04f86bc7fa91fcc63b
+      internalID: 123445701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2051
+        width: 63
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3411914b4b1d41b8ef5afce17a26a
+      internalID: -1215219134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_87
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2051
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce282d7925377054e9af8005a927f977
+      internalID: 261098546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_88
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2051
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13387b20a321bb4296b7225469713e4
+      internalID: -998283620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_89
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2051
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd5e1bc4d41d944b401e83f5aa0878
+      internalID: 9738408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_90
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2051
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e61226e6c11b459760a38cbc2fbfc
+      internalID: -1513137395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_91
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2051
+        width: 63
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e181794d62b2498c2c38db11e9e35
+      internalID: -776040934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_92
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2051
+        width: 64
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec43192b4608042a0e41a19ca56d09
+      internalID: -413197921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1997
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5885cfb0164caff418da1cb92885c059
+      internalID: -1289012817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1997
+        width: 65
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186aa94f540afe44c939a66d7be624de
+      internalID: -867354605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_95
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1998
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813e03f29ba3444fb999aeb2fe5bcff
+      internalID: -789033337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_96
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1998
+        width: 63
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d530376bebe47ac41b0825bfc4c2ac10
+      internalID: -396770130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_97
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1998
+        width: 62
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbb166503b9e8499108dcf497a1b7d
+      internalID: 1768865661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_98
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1998
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6056ee20e25e44a1ac0e78f7ae4e5
+      internalID: 1970329516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1998
+        width: 61
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee375a45a7de69240b60583d41557042
+      internalID: -97212600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_100
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1998
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405e7cd113565044b850908a304a045
+      internalID: -1317863249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_101
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1997
+        width: 63
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec88319f8f792b54b9406c3cdfc5a6e3
+      internalID: 1628268724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_102
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1997
+        width: 64
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66dc3db92667040adefa8878f6cff8
+      internalID: -1526591971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1944
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab052b7f84b1fd04ca728280b9690fa4
+      internalID: 1370546781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1944
+        width: 65
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae4a1cd63221b4fb38378693ec44f5
+      internalID: 1475532748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_105
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1945
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640fa729e716434396972130f4f8010
+      internalID: -1503215516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_106
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1945
+        width: 63
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2f5e8c9c44924e95fa01e12fabdbe
+      internalID: -152686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_107
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1945
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc90834589e2cd47b9c074584425ecb
+      internalID: -1826001548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_108
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1945
+        width: 62
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5326c35bdc9ecd4193c65d10c424c5e
+      internalID: 1983349857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1945
+        width: 61
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6cd880c6a329648a69a8acf2137efa
+      internalID: -1449632874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_110
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1944
+        width: 62
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38557acc2e24e4408c0c19f8f765621
+      internalID: -1160765041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_111
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1944
+        width: 63
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f4f528264a444b938d23f1cd403bc
+      internalID: -1807490736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_112
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1944
+        width: 64
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add2ad66d48aaf4e82b048c418ebbc9
+      internalID: -1324441328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1886
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcc3c6a8db35b46bcf247200d32988
+      internalID: 424776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1828
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42789352dd262ba4fb54a2661b82dae7
+      internalID: -981884301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1771
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939d348753d1b042b287a5c994c6e20
+      internalID: -26164749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_116
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1771
+        width: 110
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d1fd48c9fa64a4f988b10c88733150
+      internalID: 2134788451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_117
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1771
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8421e5bc5241f43bcf90cce3f94e73
+      internalID: 1312593253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1710
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877d03af00a1d946bd43181dc818104
+      internalID: 1288305515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1647
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e32c9ee5f87c34e818ae949f29a368
+      internalID: -372113059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1647
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2473d529806f53049ad2afcd4bd21f78
+      internalID: 347519891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_121
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1647
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1b25b26799a348924abf71ff7c557
+      internalID: -1519161804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1647
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1727752b2ab1a4db0114c3ab94234d
+      internalID: -2029808541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_123
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1647
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265ac175c314a14d86354681c859fa0
+      internalID: -271863043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_124
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1647
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec76721ff283c448a044c448717bb24
+      internalID: 686603493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_125
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1647
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608456f5ef78484ab5d50c51fce9625
+      internalID: -1543362859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_126
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1647
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40209d6eed447d640b27158a4c4010a5
+      internalID: 1471684590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_127
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1645
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3e51ccbeea47489a62293224625b4
+      internalID: 399771530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_128
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1645
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78da36b5b1e9104db6d54640da34854
+      internalID: 885499747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1590
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936ee61d44c5a64a862d3e3faf0330c
+      internalID: 1833966638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1529
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122865d354208347b5a2deea77751b2
+      internalID: 295248386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1470
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a2b336e934e440bf7ed880c111bf7
+      internalID: 292101721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1470
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f516e32712894798f5cfec229d26a
+      internalID: 1527205642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1470
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8319bc974f25409822bf3735adb44
+      internalID: 84331252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_134
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1470
+        width: 87
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc07d0f8a903645bd8efda952e6c66
+      internalID: -882813013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_135
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1470
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5d100e44624f4b9614c0c412cb49f
+      internalID: -1143772427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1470
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a34c0cfa6bdf46a1c0c5cb017648c
+      internalID: 849241401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_137
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1470
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b9ec47d81a4b4ab64069500605c61
+      internalID: -2053833894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1469
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc10f938625a034fbb0c473aef28d19
+      internalID: 216441592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_139
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1469
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5783ad5897b16409d247efd39ccd5c
+      internalID: 1472252124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1412
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be70de2d7355e548817c76cc20fc1b5
+      internalID: 416792335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1354
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9f43c2d5ecca4bb0087623da2f55a
+      internalID: -1043428061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1294
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca827761761174945b71c17e49c217bc
+      internalID: -603396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_143
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1294
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bdf45169dac9c4986679783700f3f4
+      internalID: -598312042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_144
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1294
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b0aeccbf95924faaee2ac91ffc8ef
+      internalID: 676902158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_145
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1294
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c298463f2e0d564793e23bfc2643686
+      internalID: 468278000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1242
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8fce4dad9ff646afbbd3eccb477f0
+      internalID: 1324604390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1243
+        width: 104
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622bb35086405aa45b74d4afb7037be8
+      internalID: -1557899580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_148
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1243
+        width: 52
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bd3158eb4b7c4e9ac789683c03d33
+      internalID: 1654767646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_149
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1243
+        width: 51
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989634189493cc449b9e03d89cc5e2c
+      internalID: 592032512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1189
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b4b9da52bc004dab86fb90c12343d
+      internalID: 264781670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1191
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa170eec053ef90459f9c0a767ede7eb
+      internalID: 1559383276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_152
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1191
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73a8d6fc2040740a1a88e1f67444a1
+      internalID: -2082511401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_153
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1191
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688a62df76fe58449b3f0507976d74e
+      internalID: -1634860555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_154
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1191
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef3a5cb07965442bff9c779735f42c
+      internalID: -1530602593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1137
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd9d58c97d0774993d496dfaf2e1a9
+      internalID: 1284048337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1139
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df3f1ebb8f69b4499ec2fc142058bdd
+      internalID: -1055732310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1139
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05af7aec847874e87be432905cc447
+      internalID: 914209150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_158
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1139
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9747078e6f43e49972e18391d55598
+      internalID: -1737215202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_159
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1139
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5fb0da4bb59da408597be8cff2b625
+      internalID: 1944826558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1085
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28fa33c281b7484eb89c839e3c120dd
+      internalID: -1058758269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 62
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c28a4ef57a85d47a164dc8d5708a08
+      internalID: -1478428843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_162
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1088
+        width: 62
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432215a7dcb07d64cbae3919688df499
+      internalID: -15860909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_163
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1088
+        width: 62
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5cc5a270b46842bde4c1ccd4c5536
+      internalID: -1869368740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_164
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1088
+        width: 62
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f2a90de08cf14782c357537eda616
+      internalID: 2065160921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1034
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa44540c269ac4dbd136fa0582cb04
+      internalID: 102680735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_166
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 982
+        width: 57
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b6e942bbb8f494196d9849b132198d
+      internalID: -2090581887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a3180459dd914b8cf024ba87b2976
+      internalID: 552907163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 877
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad5c21faa29cb4d9ae41786af23e55
+      internalID: 699424410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 811
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136299d4606d57e47a63bf87a5a821f7
+      internalID: -1591215134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_170
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 813
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc06d93b05ead1c4aa7a70ee90988abe
+      internalID: -1924204436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_171
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 813
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3112858058c68e14f99472762406b961
+      internalID: -1226643949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_172
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 813
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d0687c80dabc4dbf6d983b9b1317e
+      internalID: -1457744788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 813
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131bf0935735c0419e314ab6e718478
+      internalID: 556996593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_174
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 754
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafe62d938a7964cac3787e050b33fe
+      internalID: 1925360612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 697
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0cc87fad9ff2449b5ba5668d9e10a0
+      internalID: -270059596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_176
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 633
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137689ccfa9eab6479d1b61b13aef823
+      internalID: 381628968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_177
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 633
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c52af499270fe4baf124243c5ac837
+      internalID: 676163083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_178
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 633
+        width: 41
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ad11dd388bfe44a16f534e59e59d0
+      internalID: -197393661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 633
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e7ddbfa40ad4408d1d539f07bde76
+      internalID: 1114620352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 46
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b3da4c97ff1647bbe835266f84323
+      internalID: -2138084674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 55
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc6dbca61e8934a84fe20973c82aa0
+      internalID: -545413642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_182
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 503
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f339baec28794482076f7378ce61f
+      internalID: -1694320310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_183
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 503
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2f9a42637575408e9d174ff685a88
+      internalID: -1706537096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 503
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1375930b3911a46a7079c1dedf62a3
+      internalID: -2080585652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd101c0e8239f499b90fbdf17b4d09
+      internalID: 363331467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_186
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 439
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541e3383c7045d4291b2ec198d03f28
+      internalID: 1229491503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_187
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 439
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a306eba0ec23a4d8788d1c11bb49de
+      internalID: 142210366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_188
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 439
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689640d1871e1de4ea787351a56c788b
+      internalID: 1780223242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_189
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e24e51ecd44647a65de1627eb02c1
+      internalID: 2120423763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_190
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 379
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6a98a649505246b704b4cd823e82c
+      internalID: -2034619115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_191
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 379
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b181aea05c3d35544a558afb0bbbe50a
+      internalID: 948929486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 315
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6249226ff9c4de24b84a91cce7d7bccf
+      internalID: -1396560320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_193
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 315
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c1ffa6e520424e8462ab97deb9aae
+      internalID: -883868749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_194
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 310
+        width: 56
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31474e83731e74196baa2fa0996a5b
+      internalID: -2059105849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_195
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 315
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee015c3bce44e3947bca54ee6a0a9c2f
+      internalID: 2013491047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_196
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 310
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1ed10dbb193e43bc0bbb5dea5be06
+      internalID: -692001784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_197
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 315
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6bbd0bc5c8144eb1551e37ac78c8b
+      internalID: 224276905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_198
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 310
+        width: 55
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583992b518dad594f8ba672d08be8c57
+      internalID: -1063622909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4870f5435f3aaa489615184c8dd0876
+      internalID: -804592664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7734576c3766043bca4a8850c27d37
+      internalID: -892345072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_201
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 40
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492f934d7defcc42a74e1ebaaba736f
+      internalID: -572988881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_202
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030e0566f236eb44b3100a4bc17c768
+      internalID: -1950151249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_203
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 125
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fd4e8966ff4046b5d5161884c970b
+      internalID: -1598376596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_204
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 125
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a36bb8cc2363c4dafd73622fec6d28
+      internalID: 1645331267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_205
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 119
+        width: 55
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37026be70111794499bd5af1fda35da9
+      internalID: -1845508795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_206
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 122
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c33d745c5fb60468e13275fb599d23
+      internalID: 1195751663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_207
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 119
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279cafd49e192a64586d945b1efe0773
+      internalID: 1500987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_208
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 122
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccdb0629d5faf14eba8cbc22166176f
+      internalID: -510718752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_209
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 119
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32d989fbffb5348beffd843f813f5e
+      internalID: 2075925089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_210
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f8d70aeb78604d809c1e560139c39
+      internalID: -95587774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_211
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 124
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a006da8756344dbce85c0cd0feb6a
+      internalID: 1311586380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gunvolt all sprites_212
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2295012abccda49ae937234c31335b
+      internalID: -1725575030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0d5d27183c908749b420906b09e5f6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gunvolt all sprites_199: -804592664
+      Gunvolt all sprites_61: -643119642
+      Gunvolt all sprites_43: -608413966
+      Gunvolt all sprites_92: -413197921
+      Gunvolt all sprites_211: 1311586380
+      Gunvolt all sprites_10: -402013393
+      Gunvolt all sprites_28: 1398907506
+      Gunvolt all sprites_46: -1835391050
+      Gunvolt all sprites_91: -776040934
+      Gunvolt all sprites_137: -2053833894
+      Gunvolt all sprites_114: -981884301
+      Gunvolt all sprites_128: 885499747
+      Gunvolt all sprites_40: 1954627716
+      Gunvolt all sprites_19: -831913553
+      Gunvolt all sprites_44: -1232668709
+      Gunvolt all sprites_38: -1712533794
+      Gunvolt all sprites_55: 1393795121
+      Gunvolt all sprites_99: -97212600
+      Gunvolt all sprites_75: -1110374066
+      Gunvolt all sprites_116: 2134788451
+      Gunvolt all sprites_167: 552907163
+      Gunvolt all sprites_180: -2138084674
+      Gunvolt all sprites_33: -401405262
+      Gunvolt all sprites_22: -1493636600
+      Gunvolt all sprites_80: 790535599
+      Gunvolt all sprites_58: -1408064297
+      Gunvolt all sprites_62: 1352137399
+      Gunvolt all sprites_183: -1706537096
+      Gunvolt all sprites_110: -1160765041
+      Gunvolt all sprites_15: -1321687511
+      Gunvolt all sprites_174: 1925360612
+      Gunvolt all sprites_76: -903426153
+      Gunvolt all sprites_106: -152686826
+      Gunvolt all sprites_59: -1007060436
+      Gunvolt all sprites_11: 1809691251
+      Gunvolt all sprites_135: -1143772427
+      Gunvolt all sprites_134: -882813013
+      Gunvolt all sprites_151: 1559383276
+      Gunvolt all sprites_165: 102680735
+      Gunvolt all sprites_209: 2075925089
+      Gunvolt all sprites_196: -692001784
+      Gunvolt all sprites_172: -1457744788
+      Gunvolt all sprites_177: 676163083
+      Gunvolt all sprites_35: 1360466607
+      Gunvolt all sprites_142: -603396426
+      Gunvolt all sprites_204: 1645331267
+      Gunvolt all sprites_14: -1200632858
+      Gunvolt all sprites_6: 2037851725
+      Gunvolt all sprites_130: 295248386
+      Gunvolt all sprites_186: 1229491503
+      Gunvolt all sprites_78: 347363875
+      Gunvolt all sprites_88: -998283620
+      Gunvolt all sprites_159: 1944826558
+      Gunvolt all sprites_20: 261544837
+      Gunvolt all sprites_56: 529256054
+      Gunvolt all sprites_96: -396770130
+      Gunvolt all sprites_162: -15860909
+      Gunvolt all sprites_136: 849241401
+      Gunvolt all sprites_89: 9738408
+      Gunvolt all sprites_29: 1260770888
+      Gunvolt all sprites_36: 1241880343
+      Gunvolt all sprites_95: -789033337
+      Gunvolt all sprites_7: -1732981104
+      Gunvolt all sprites_17: 640163821
+      Gunvolt all sprites_50: 559466157
+      Gunvolt all sprites_127: 399771530
+      Gunvolt all sprites_173: 556996593
+      Gunvolt all sprites_16: -757461977
+      Gunvolt all sprites_205: -1845508795
+      Gunvolt all sprites_32: -715299372
+      Gunvolt all sprites_83: 2106061039
+      Gunvolt all sprites_163: -1869368740
+      Gunvolt all sprites_158: -1737215202
+      Gunvolt all sprites_118: 1288305515
+      Gunvolt all sprites_8: -305363208
+      Gunvolt all sprites_93: -1289012817
+      Gunvolt all sprites_171: -1226643949
+      Gunvolt all sprites_31: 1656264592
+      Gunvolt all sprites_185: 363331467
+      Gunvolt all sprites_148: 1654767646
+      Gunvolt all sprites_140: 416792335
+      Gunvolt all sprites_82: -1131858611
+      Gunvolt all sprites_207: 1500987
+      Gunvolt all sprites_111: -1807490736
+      Gunvolt all sprites_3: 395859333
+      Gunvolt all sprites_34: -233321953
+      Gunvolt all sprites_168: 699424410
+      Gunvolt all sprites_67: -337201521
+      Gunvolt all sprites_0: 426298572
+      Gunvolt all sprites_52: 50330969
+      Gunvolt all sprites_48: -1562482613
+      Gunvolt all sprites_68: 1125228613
+      Gunvolt all sprites_117: 1312593253
+      Gunvolt all sprites_181: -545413642
+      Gunvolt all sprites_105: -1503215516
+      Gunvolt all sprites_21: -1059475774
+      Gunvolt all sprites_124: 686603493
+      Gunvolt all sprites_125: -1543362859
+      Gunvolt all sprites_119: -372113059
+      Gunvolt all sprites_189: 2120423763
+      Gunvolt all sprites_107: -1826001548
+      Gunvolt all sprites_12: 1425002116
+      Gunvolt all sprites_84: 1706857985
+      Gunvolt all sprites_132: 1527205642
+      Gunvolt all sprites_195: 2013491047
+      Gunvolt all sprites_143: -598312042
+      Gunvolt all sprites_188: 1780223242
+      Gunvolt all sprites_115: -26164749
+      Gunvolt all sprites_166: -2090581887
+      Gunvolt all sprites_201: -572988881
+      Gunvolt all sprites_176: 381628968
+      Gunvolt all sprites_85: 123445701
+      Gunvolt all sprites_101: 1628268724
+      Gunvolt all sprites_112: -1324441328
+      Gunvolt all sprites_54: -2050950232
+      Gunvolt all sprites_104: 1475532748
+      Gunvolt all sprites_70: 1049835851
+      Gunvolt all sprites_178: -197393661
+      Gunvolt all sprites_37: -1992828551
+      Gunvolt all sprites_13: 1773426356
+      Gunvolt all sprites_64: 66917558
+      Gunvolt all sprites_141: -1043428061
+      Gunvolt all sprites_42: 63706593
+      Gunvolt all sprites_190: -2034619115
+      Gunvolt all sprites_5: 1454417441
+      Gunvolt all sprites_175: -270059596
+      Gunvolt all sprites_169: -1591215134
+      Gunvolt all sprites_203: -1598376596
+      Gunvolt all sprites_41: -915444567
+      Gunvolt all sprites_79: -928454
+      Gunvolt all sprites_86: -1215219134
+      Gunvolt all sprites_184: -2080585652
+      Gunvolt all sprites_170: -1924204436
+      Gunvolt all sprites_153: -1634860555
+      Gunvolt all sprites_197: 224276905
+      Gunvolt all sprites_94: -867354605
+      Gunvolt all sprites_4: 1123188447
+      Gunvolt all sprites_202: -1950151249
+      Gunvolt all sprites_2: 943377667
+      Gunvolt all sprites_212: -1725575030
+      Gunvolt all sprites_122: -2029808541
+      Gunvolt all sprites_25: -682567279
+      Gunvolt all sprites_18: -1262739715
+      Gunvolt all sprites_39: -422413332
+      Gunvolt all sprites_97: 1768865661
+      Gunvolt all sprites_100: -1317863249
+      Gunvolt all sprites_149: 592032512
+      Gunvolt all sprites_77: 578538367
+      Gunvolt all sprites_198: -1063622909
+      Gunvolt all sprites_182: -1694320310
+      Gunvolt all sprites_187: 142210366
+      Gunvolt all sprites_145: 468278000
+      Gunvolt all sprites_191: 948929486
+      Gunvolt all sprites_45: -1329579442
+      Gunvolt all sprites_147: -1557899580
+      Gunvolt all sprites_129: 1833966638
+      Gunvolt all sprites_60: -1581466063
+      Gunvolt all sprites_164: 2065160921
+      Gunvolt all sprites_49: 172130098
+      Gunvolt all sprites_81: -1484219063
+      Gunvolt all sprites_200: -892345072
+      Gunvolt all sprites_208: -510718752
+      Gunvolt all sprites_131: 292101721
+      Gunvolt all sprites_74: 1850578491
+      Gunvolt all sprites_53: -1677299493
+      Gunvolt all sprites_69: -1866813316
+      Gunvolt all sprites_87: 261098546
+      Gunvolt all sprites_152: -2082511401
+      Gunvolt all sprites_161: -1478428843
+      Gunvolt all sprites_192: -1396560320
+      Gunvolt all sprites_108: 1983349857
+      Gunvolt all sprites_102: -1526591971
+      Gunvolt all sprites_73: -122548120
+      Gunvolt all sprites_63: -676383601
+      Gunvolt all sprites_71: 212393473
+      Gunvolt all sprites_193: -883868749
+      Gunvolt all sprites_120: 347519891
+      Gunvolt all sprites_126: 1471684590
+      Gunvolt all sprites_23: -796292071
+      Gunvolt all sprites_154: -1530602593
+      Gunvolt all sprites_194: -2059105849
+      Gunvolt all sprites_113: 424776229
+      Gunvolt all sprites_90: -1513137395
+      Gunvolt all sprites_156: -1055732310
+      Gunvolt all sprites_103: 1370546781
+      Gunvolt all sprites_51: 959010237
+      Gunvolt all sprites_121: -1519161804
+      Gunvolt all sprites_210: -95587774
+      Gunvolt all sprites_98: 1970329516
+      Gunvolt all sprites_1: -1153881667
+      Gunvolt all sprites_66: -350061805
+      Gunvolt all sprites_179: 1114620352
+      Gunvolt all sprites_146: 1324604390
+      Gunvolt all sprites_160: -1058758269
+      Gunvolt all sprites_57: 1543514059
+      Gunvolt all sprites_109: -1449632874
+      Gunvolt all sprites_26: 176006593
+      Gunvolt all sprites_27: 726771998
+      Gunvolt all sprites_30: -261701156
+      Gunvolt all sprites_144: 676902158
+      Gunvolt all sprites_133: 84331252
+      Gunvolt all sprites_47: 1248258379
+      Gunvolt all sprites_138: 216441592
+      Gunvolt all sprites_155: 1284048337
+      Gunvolt all sprites_206: 1195751663
+      Gunvolt all sprites_65: 752475198
+      Gunvolt all sprites_150: 264781670
+      Gunvolt all sprites_72: 420192612
+      Gunvolt all sprites_157: 914209150
+      Gunvolt all sprites_139: 1472252124
+      Gunvolt all sprites_24: -922311721
+      Gunvolt all sprites_9: -104617861
+      Gunvolt all sprites_123: -271863043
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
