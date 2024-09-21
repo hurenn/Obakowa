@@ -7,7 +7,7 @@ public class CharacterBase : MonoBehaviour
     /// <summary>
     /// 物理演算
     /// </summary>
-    private Rigidbody rb;
+    protected Rigidbody rb;
 
     /// <summary>
     /// 移動スピード

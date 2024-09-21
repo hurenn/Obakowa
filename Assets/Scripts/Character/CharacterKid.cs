@@ -7,11 +7,13 @@ public class CharacterKid : CharacterBase
     /// <summary>
     /// 弾クラス
     /// </summary>
+    [SerializeField]
     private GameObject _shoot_obj;
 
     /// <summary>
     /// カメラ撮影範囲クラス
     /// </summary>
+    [SerializeField]
     private GameObject _photograph_obj;
 
     /// <summary>
@@ -25,8 +27,8 @@ public class CharacterKid : CharacterBase
         base.Setup();
 
         // 武器読み込み
-        _shoot_obj = (GameObject)Resources.Load(GameDifinition.SHOOT_PATH);
-        _photograph_obj = (GameObject)Resources.Load(GameDifinition.PHOTOGRAPH_PATH);
+        //_shoot_obj = (GameObject)Resources.Load(GameDifinition.SHOOT_PATH);
+        //_photograph_obj = (GameObject)Resources.Load(GameDifinition.PHOTOGRAPH_PATH);
     }
 
     public override void Shoot()

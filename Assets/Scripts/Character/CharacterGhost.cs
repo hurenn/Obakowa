@@ -31,18 +31,38 @@ public class CharacterGhost : CharacterBase
     private Renderer rend;
 
     /// <summary>
+    /// スプライトレンダラ―
+    /// </summary>
+    private SpriteRenderer rend2D;
+
+    /// <summary>
     /// 脅かし攻撃
     /// </summary>
     [SerializeField]
     private Scare _scare;
 
+    private void RendAction(System.Action<Renderer> rendAct, System.Action<SpriteRenderer> spriteAct)
+    {
+        if (rend)
+        {
+            rendAct(rend);
+        }
+        if (rend2D)
+        {
+            spriteAct(rend2D);
+        }
+    }
+
     public override void Setup()
     {
         _scare.gameObject.SetActive(false);
         rend = GetComponent<Renderer>();
+        rend2D = GetComponentInChildren<SpriteRenderer>();
         _current_recover_timer = 0;
         _current_status = GameDifinition.eGhostStatus.ShootHit;
-        _def_alpha = rend.material.color.a;
+        RendAction(
+            (r) => { _def_alpha = r.material.color.a; },
+            (r) => { _def_alpha = r.material.color.a; });
         StartCoroutine("PlayAlphaAnimation", GameDifinition.eColor.Cyan);
 
         color_change_action += (set_color) =>
@@ -62,8 +82,17 @@ public class CharacterGhost : CharacterBase
             }
 
             var rgb = GameDifinition.GetRGBColor(set_color);
-            rgb.a = rend.material.color.a;
-            rend.material.color = rgb;
+
+            RendAction(
+                (r) => {
+                    rgb.a = r.material.color.a;
+                    r.material.color = rgb;
+                },
+                (r) => {
+                    rgb.a = r.material.color.a;
+                    r.material.color = rgb;
+                });
+            
         };
 
         base.Setup();
@@ -77,13 +106,31 @@ public class CharacterGhost : CharacterBase
     {
         var rgb = GameDifinition.GetRGBColor(set_color);
         rgb.a = _def_alpha;
-        rend.material.color = rgb;
+        RendAction(
+            (r) => {
+                r.material.color = rgb;
+            },
+            (r) => {
+                r.material.color = rgb;
+            });
 
-        while(rend.material.color.a > 0)
+        if (rend)
         {
-            rgb.a = Mathf.Clamp(rgb.a - 0.01f, 0, 1.0f);
-            rend.material.color = rgb;
-            yield return null;
+            while (rend.material.color.a > 0)
+            {
+                rgb.a = Mathf.Clamp(rgb.a - 0.01f, 0, 1.0f);
+                rend.material.color = rgb;
+                yield return null;
+            }
+        }
+        if (rend2D)
+        {
+            while (rend2D.material.color.a > 0)
+            {
+                rgb.a = Mathf.Clamp(rgb.a - 0.01f, 0, 1.0f);
+                rend2D.material.color = rgb;
+                yield return null;
+            }
         }
 
         yield break;
@@ -123,7 +170,13 @@ public class CharacterGhost : CharacterBase
         _current_status = GameDifinition.eGhostStatus.ShootHit;
 
         enableColorChange = true;
-        rend.enabled = true;
+        RendAction(
+            (r) => {
+                r.enabled = true;
+            },
+            (r) => {
+                r.enabled = true;
+            });
         var color = (GameDifinition.eColor)Random.Range(1, 4);
         SetColor( color );
 
@@ -146,7 +199,13 @@ public class CharacterGhost : CharacterBase
             // 透明度1の白色に切り替え
             var rgb = GameDifinition.GetRGBColor(GameDifinition.eColor.White);
             rgb.a = 1.0f;
-            rend.material.color = rgb;
+            RendAction(
+                (r) => {
+                    r.material.color = rgb;
+                },
+                (r) => {
+                    r.material.color = rgb;
+                });
 
             _current_recover_timer = _recover_time;
             enableColorChange = false;
@@ -173,6 +232,12 @@ public class CharacterGhost : CharacterBase
 
         _current_recover_timer = _recover_time;
         enableColorChange = false;
-        rend.enabled = false;
+        RendAction(
+            (r) => {
+                r.enabled = false;
+            },
+            (r) => {
+                r.enabled = false;
+            });
     }
 }

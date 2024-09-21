@@ -16,10 +16,23 @@ public class Shoot : WeaponBase
     public void Setup(GameDifinition.eColor set_color)
     {
         _color = set_color;
+        var pos = transform.position;
+        pos.z += 3;
+        transform.position = pos;
     }
 
     private void Start()
     {
-        GetComponent<Renderer>().material.color = GameDifinition.GetRGBColor(_color);
+        var rend = GetComponent<Renderer>();
+        if (rend)
+        {
+            rend.material.color = GameDifinition.GetRGBColor(_color);
+        }
+
+        var sprite = GetComponentInChildren<SpriteRenderer>();
+        if (sprite)
+        {
+            sprite.color = GameDifinition.GetRGBColor(_color);
+        }
     }
 }
